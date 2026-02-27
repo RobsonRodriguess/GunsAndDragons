@@ -1,0 +1,13 @@
+# Ignorar arquivos compilados e executáveis
+*.exe
+*.o
+*.obj
+*.dll
+
+# Ignorar pastas de configuração do editor
+.vscode/
+.idea/
+
+# Ignorar pastas de build (se você criar uma depois)
+build/
+bin/
